@@ -1,0 +1,91 @@
+.section-div {
+  min-height: 500px;
+}
+
+.head-div {
+  padding-top: 50px;
+  background-image: url('../img/prism.jpg');
+  background-size: cover;
+}
+
+img {
+    max-width: 100%;
+}
+
+.faq-div {
+  background-color: #199aef;
+  color: #fff;
+}
+
+.padding-top {
+  padding-top: 90px;
+}
+
+.underline-hr {
+  margin: auto;
+  width: 100px;
+  border: 2px solid #ee6e73;
+}
+
+.icon-color {
+  color: #ee6e73;
+}
+
+.features-div {
+  background-image: url('../img/bg-pattern.png');
+}
+
+.hover-shadow:hover{
+  text-shadow: 2px 2px;
+}
+
+#navigation nav {
+  background-color: rgba(255, 255, 255, 0.95);
+}
+
+#navigation nav a{
+  color: #777;
+}
+
+#navigation nav a.btn {
+  color:#fff;
+}
+
+.logo {
+  width: 40px;
+  margin-left: 20px;
+}
+
+.faq-list li{
+  background-color: #fff;
+  color: #777;
+}
+
+.contact-div {
+  background-color: #fafafa;
+}
+
+.address-list {
+  font-weight: 300;
+  font-size: 16px;
+  margin-left: 10%;
+}
+
+.section-div-small {
+  height: 300px;
+}
+
+.footer-div {
+  background-color: #263238;
+  color: #bdbdbd;
+}
+
+.empty-page-container {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.register-card {
+    
+}
